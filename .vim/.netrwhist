@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/keith/code/blog/keithhanson.io/_includes'
+let g:netrw_dirhist_2='/Users/keith/code/blog/keithhanson.io'
+let g:netrw_dirhist_3='/Users/keith/code/blog/keithhanson.io/_layouts'
+let g:netrw_dirhist_4='/Users/keith/code/blog/keithhanson.io'
+let g:netrw_dirhist_5='/Users/keith/code/blog/keithhanson.io/_layouts'
+let g:netrw_dirhist_6='/Users/keith/code/blog/keithhanson.io'
+let g:netrw_dirhist_7='/Users/keith/code/blog/keithhanson.io/_includes'
+let g:netrw_dirhist_8='/Users/keith/code/blog/keithhanson.io'
